@@ -10,7 +10,7 @@ http://www.evernote.com/l/ABAhuFRnTZZK0onAjy04F9Rh8zHl8huT6uM/
 http://www.evernote.com/l/ABAL5Ko77ARBA47IcHnqIbcAedE1lklI0fc/
 
 ## 行程カレンダー
-（実装中）
+[BrainsTsukuba Google Calendar](https://calendar.google.com/calendar/embed?src=vgmil359v7udmgl2cr9elph45g%40group.calendar.google.com&ctz=Asia/Tokyo)
 
 ## Brainsメンバーへのルール
 
@@ -18,7 +18,8 @@ http://www.evernote.com/l/ABAL5Ko77ARBA47IcHnqIbcAedE1lklI0fc/
 遵守できず、相談の末にも改善が見られない場合、他メンバーへの影響も考え、活動を中止ないし休止を勧めます。
 まぁ、といっても人として常識的なことを守っていただきたいだけです。
 
-可能な限りフラットな組織を目指しますので、私の独裁状態にならないよう、内容に意見がある人は言ってください。
+可能な限りフラットな組織を目指しますので、私の独裁状態にならないよう、内容に意見がある人はプルリクなりイシュー送ってください。
+なおこのリポジトリに変更があると、Slackに通知が行くようになっています。
 また、それぞれのルールの制定理由も、疑問があれば聞いてください。まずは、以下4つを定めておきます。
 
 1. general, important_infoチャネルの通知はOnにしてください。
