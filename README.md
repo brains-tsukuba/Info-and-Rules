@@ -4,10 +4,10 @@
 こちらを頭に入れて、活動していただけると、きっと自分のためにも周りのためにもなります。
 
 ## カリキュラム
-http://www.evernote.com/l/ABAhuFRnTZZK0onAjy04F9Rh8zHl8huT6uM/
+[curriculum.md](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/curriculum.md)
 
 ## 入部課題
-http://www.evernote.com/l/ABAL5Ko77ARBA47IcHnqIbcAedE1lklI0fc/
+[entrance_test.md](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/entrance_test.md)
 
 ## 行程カレンダー
 [BrainsTsukuba Google Calendar](https://calendar.google.com/calendar/embed?src=vgmil359v7udmgl2cr9elph45g%40group.calendar.google.com&ctz=Asia/Tokyo)
