@@ -89,7 +89,7 @@
 
 ## すごろくを作る。（以下のステップを追う)
 
-- 使用甘いかもしれないので、質問あったら言って。
+- 仕様甘いかもしれないので、質問あったら言って。
 - [Step1](http://www.evernote.com/l/ABA59ISNBvxGuZFML3OENBGutA2Ui_vMwak/)
 - [Step2](http://www.evernote.com/l/ABBxfgyAVbFPIpCqCxgIKbh6t7ibVQCcNkk/)
 - [Step3](http://www.evernote.com/l/ABA9q_ZY2v5H8KTn8DdGixwD5HzpeYlferc/)
