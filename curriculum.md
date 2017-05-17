@@ -12,9 +12,9 @@
 - [How to Become a Successful Software Engineer - YouTube](https://www.youtube.com/watch?v=nj3ptLyUwgI)
 
 ## この資料が目指すもの
-- 自走できるようになる。
+- 自走できるようになるのが目的。
  - プログラミングやITの世界は変化が激しい。
-   - それについていけなくては、生きていけない。
+   - それについていけなくては、生きていけない。Brainになれない。
      - 従って、自ら学ぶスキルが重要になる。
        - そのための基礎力をつけるのが、以下のカリキュラムの内容。
 
@@ -29,6 +29,8 @@
 
 # 以下実際のカリキュラム
 
+やる内容を見出しに書き、字下げしたところにその後に理由等を箇条書している。
+
 ## Google Apps Scriptで「[お天気Webアプリ](http://paiza.hatenablog.com/entry/2016/08/09/%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%E6%90%8D%E3%81%99%E3%82%8BGoogle_Apps_Script%E3%81%AE%E5%A4%96%E9%83%A8JSON%E3%83%87%E3%83%BC%E3%82%BF%E9%80%A3%E6%90%BA%E8%A1%93%EF%BC%81%E3%81%99%E3%81%B9)」を作る。
 プログラミングの可能性を感じる。
 
@@ -40,7 +42,9 @@
 
 
 ## ドットインストールで入門する
-課題で一部やった人は、HTML/CSS、JSでまだやっていないところをやる。
+課題で一部やった人は、HTML/CSS、JSで*まだやっていないところをやる*。
+以下は課題でやったはずのところを再掲。復習が必要なら再びやり、無料版の範囲でいいので、
+それ以外の講座もやる。
 ### HTML/CSS:
 - http://dotinstall.com/lessons/basic_html_v3
 - http://dotinstall.com/lessons/basic_css_v3
@@ -90,10 +94,11 @@
 ## すごろくを作る。（以下のステップを追う)
 
 - 仕様甘いかもしれないので、質問あったら言って。
-- [Step1](http://www.evernote.com/l/ABA59ISNBvxGuZFML3OENBGutA2Ui_vMwak/)
-- [Step2](http://www.evernote.com/l/ABBxfgyAVbFPIpCqCxgIKbh6t7ibVQCcNkk/)
-- [Step3](http://www.evernote.com/l/ABA9q_ZY2v5H8KTn8DdGixwD5HzpeYlferc/)
-- [Step4](http://www.evernote.com/l/ABCBOPLykUFFk5NfHfyXocDIWJWUeWv0Tbs/)
+- [Step1](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku1.md)
+- [Step2](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku2.md)
+- [Step3](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku3.md)
+- [Step4](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku4.md)
+
   - Step4[最低限のライン](https://repl.it/CiPJ/18)（←の改善点は？（A.クラスを作る/グローバル変数を使わない等））
 - 継続的に使えるシステムを作ることの難しさを体感する。
   - クラス設計、リーダブルコードなどを意識。
