@@ -6,7 +6,7 @@
    - プログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
 
 - [人は一ヶ月でエンジニアになれるのか](https://www.slideshare.net/kiyotoyamaura/1-45361529)
- - [上記解説](https://www.slideshare.net/livesense/ss-46078743)
+  - [上記解説](https://www.slideshare.net/livesense/ss-46078743)
 - [学生時代に知っておきたかったWeb技術の学び方の学び方](https://www.slideshare.net/livesense/web-49772012)
 - [プロのプログラマーになるために本当に必要なスキルとは](https://www.lifehacker.jp/2015/01/150127pro_program.html)
 - [How to Become a Successful Software Engineer - YouTube](https://www.youtube.com/watch?v=nj3ptLyUwgI)
@@ -21,6 +21,7 @@
 ## 大前提のスキル： 
 - [ブラインドタッチ](https://digitalfan.jp/109395)
 - [ITパスポート](https://www.google.co.jp/search?q=it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=bmYNWbWPOqvz8AfEopjwBg)レベルの知識とPCスキル
+- [入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）]("https://github.com/brains-tsukuba/Info-and-Rules/blob/master/curriculum.md")を実施済みであること
 
 ## カリキュラムの変更について
 - 随時改善提案を歓迎します。良い教材や、やる順番などあったら、教えてください。
@@ -34,15 +35,9 @@
 ## Google Apps Scriptで「[お天気Webアプリ](http://paiza.hatenablog.com/entry/2016/08/09/%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%E6%90%8D%E3%81%99%E3%82%8BGoogle_Apps_Script%E3%81%AE%E5%A4%96%E9%83%A8JSON%E3%83%87%E3%83%BC%E3%82%BF%E9%80%A3%E6%90%BA%E8%A1%93%EF%BC%81%E3%81%99%E3%81%B9)」を作る。
 プログラミングの可能性を感じる。
 
-## プログラミングのイメージをつかむための教材サイトやる
-ほんとにプログラミングを一切想像できない人向け。（飛ばしても可
-
-- https://studio.code.org/
-- https://codemonkey.jp/
-
 
 ## ドットインストールで入門する
-課題で一部やった人は、HTML/CSS、JSで*まだやっていないところをやる*。
+課題で一部やった人は、HTML/CSS、JSで無料講座で**まだやっていないところをやる**。
 以下は課題でやったはずのところを再掲。復習が必要なら再びやり、無料版の範囲でいいので、
 それ以外の講座もやる。
 ### HTML/CSS:
@@ -60,10 +55,13 @@
 - http://dotinstall.com/lessons/stop_watch_js_v3
 
 #### 留意点
-- Brackets(or Atom or SublimeText)を使ってください。
+- エディタにこだわりがなければ、Brackets(or VS Code or SublimeText)を使ってみてください。
+  - エディタの内容をブラウザに描画するのが楽なので。
+
+#### ドットインストールをやる目的
 - Webをやる上での基本3つの言語に入門する。
    - Webは今後アプリケーションプラットフォームとして発達する。
-     - IT系に関わるならどっかで絶対使う場面が出てくる。
+      - IT系に関わるならどっかで絶対使う場面が出てくる。
 
 ## プログラミングで何をしたいか問題を考える
 - プログラミングをすることで、やがてどうなり、どうしたいのかを整理。
@@ -133,7 +131,7 @@
 ## エンジニアのキャリア像や、スキルマップの確認する
 
 - キャリア
- - フロントエンド、バックエンド、インフラ（DevOps）、データ解析、プロダクトマネージャー
+ - フロントエンド、バックエンド、インフラ（DevOps）、データ解析、プロダクトマネージャー等
 
 - スキルマップ
  - 言語、フレームワーク、設計、データベース、ブラウザ、セキュリティ、開発手法
@@ -144,7 +142,7 @@
 
 1. 作りたいもの選定
 
- 最初は既存のオープンソースのものを、自分が使いやすくなるようにいじるとか、自分しか使わないけど自分にとっては便利なものなどを作ってみる。
+ 最初は既存のオープンソースのものを自分が使いやすくなるようにいじるとか、自分しか使わないけど自分にとっては便利なものなどを作ってみる。
 
 2. 覚える/使う技術の選定
  - 簡易なWebアプリ→ js (React jQuery etc...) & mbaas
@@ -154,30 +152,31 @@
      - 保守の必要性がない、短期間しか使わないようなページなどには使える
       - https://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/
       - https://mobirise.com/ja/
- - スマホ→ (Swift or Kotlin) + mbaas
- - デスクトップ→C# or Electron.js
+　- デスクトップ→C# or Electron.js
+　- スマホ→ (Swift or Kotlin) + mbaas
  - バックもスマホフロントエンドも一つの言語で！
     - C# (ASP.NET ＆ Xamarin)
     - js (node.js ＆ ReactNative)
     - PWA(プログレッシブWEBアプリ)
 3. IDEを選ぶ
- - Visual Studio、Intelliju
+ - Visual Studio、Intellijの2つがモダンでメジャーかな？
 
 4. paas, iaas, baasを選ぶ（必要なら）
  - Azure, AWS, GCP, Firebase
 
 5. 各言語の詳細技術を覚える。
- - Catching(Nginx, Apache, Database(redis), In-Memory)
- - RDBMS
- - Search Engine
+上から順に重要な気がする。
  - Unit/Functional Testing
  - API's / Restful Services
- - Security
- - Authorization （Oauth2）
  - Microservice
+ - Catching(Nginx, Apache, Database(redis), In-Memory)
+ - ORM/Data Structure
+ - RDBMS
+ - Authorization （Oauth2）
+ - Security
  - Deploying
  - Websocket
- - ORM/Data Structure
+ - Search Engine
 
 6. 開発(要件定義、設計も含める)
  - キャリア/スキル確認〜〜開発までの流れを2〜3回繰り返す。
