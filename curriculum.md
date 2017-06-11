@@ -154,12 +154,15 @@
  - 簡易なWebアプリ→ js (React jQuery etc...) & mbaas
  - データの処理が複雑なWebアプリ→node.js か、rails、Python でAPIを作る。
  - ただのWebサイト(HTML,CSS,JS)
-    - モックアップ作製ツールで楽できるかも？
+    - モックアップ作製ツールやBootstrapエディタで楽できるかも？
      - 保守の必要性がない、短期間しか使わないようなページなどには使える
-      - https://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/
-      - https://mobirise.com/ja/
-　- デスクトップ→C# or Electron.js
-　- スマホ→ (Swift or Kotlin) + mbaas
+       - [各種Bootstrapエディタ](https://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/)
+       - [mobirise](https://mobirise.com/ja/)
+       - [Bootstrap Studio](https://bootstrapstudio.io/)
+ - デスクトップ
+   - C# or Electron.js
+ - スマホ
+   - Swift/Kotlin + mbaas
  - バックもスマホフロントエンドも一つの言語で！
     - C# (ASP.NET ＆ Xamarin)
     - js (node.js ＆ ReactNative)
