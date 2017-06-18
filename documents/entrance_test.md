@@ -91,7 +91,7 @@ Brainsではまずは、ちょっとした課題を入部の条件にしてい�
   
 #### 経産省が発表した資料（2017年5月）
 
-- [不安な個人、立ちすくむ国家~モデルなき時代をどう前向きに生き抜くか~](http://www.meti.go.jp/committee/summary/eic0009/pdf/020_02_00.pdf)
+- [不安な個人、立ちすくむ国家。モデルなき時代をどう前向きに生き抜くか。](http://www.meti.go.jp/committee/summary/eic0009/pdf/020_02_00.pdf)
   - [「シルバー民主主義を民主的に乗り越えたい」 経産省の若手が作成したパワポが話題、当日のプレゼン担当者が思いを語る | キャリコネニュース](https://news.careerconnection.jp/?p=35692)
   - [なぜ経産官僚は働き方に危機感を抱くのか キーパーソンが提唱する「AI格差時代の1億総学び社会」 | BUSINESS INSIDER JAPAN](https://www.businessinsider.jp/post-33716)
 - この資料に対して批判は少なからずある。

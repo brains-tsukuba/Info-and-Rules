@@ -21,7 +21,7 @@
 ## 大前提のスキル： 
 - [ブラインドタッチ](https://digitalfan.jp/109395)
 - [ITパスポート](https://www.google.co.jp/search?q=it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=bmYNWbWPOqvz8AfEopjwBg)レベルの知識とPCスキル
-- [入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/curriculum.md)を実施済みであること
+- [入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md)を実施済みであること
 
 ## カリキュラムの変更について
 - 随時改善提案を歓迎します。良い教材や、やる順番などあったら、教えてください。
