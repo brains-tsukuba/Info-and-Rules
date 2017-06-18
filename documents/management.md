@@ -92,7 +92,7 @@ Brainsを運営する上でどのような工夫、組織マネジメント、�
 	- プログラミングでやりたいことを想像する力
 
 ### 2.1.2. マッチング確認方法
-マッチングの確認のために試験と面接を課す。試験内容は[GitHub参照](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/entrance_test.md)。**別途資料を用意スべし**。
+マッチングの確認のために試験と面接を課す。試験内容は[GitHub参照](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/entrance_test.md)。**別途資料を用意スべし**。
 
 ### 2.1.3. 採用スべきでない人材像
 なお、気をつけるべきなのは、我々は
@@ -230,7 +230,8 @@ OB会などを実施するのもいい。
 ## 3.3. プログラミングの学習
 
 以下を進める。
-- [入部課題](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/entrance_test.md "Info-and-Rules/entrance_test.md at master · brains-tsukuba/Info-and-Rules")
+- [入部課題](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/entrance_test.md "Info-and-Rules/entrance_test.md at master · brains-tsukuba/Info-and-Rules")
+- [カリキュラム](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md "Info-and-Rules/documents/curriculum.md at master · brains-tsukuba/Info-and-Rules")
 - [PyQ](https://pyq.jp/)
 	- PyQの精度にもよるが、PyQ丸投げもありな気がしてきた。
 	- カリキュラムの『githubを使い、覚える』までやったひとで、Pythonやりたい人はPyQって使い方もありかな
