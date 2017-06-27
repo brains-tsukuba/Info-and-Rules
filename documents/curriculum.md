@@ -76,7 +76,7 @@
    - [Read Search Ask](https://medium.freecodecamp.com/read-search-dont-be-afraid-to-ask-743a23c411b4) が、手詰まりになったときの基本
      - StackOverflowもうまく使うと良い。英語での検索を覚えよう。
 - 各情報源の信頼性や使い分けも意識すること
-  - [参考リンク](http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#3-%E6%83%85%E5%A0%B1%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B)
+  - [参考リンク](http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#3-%E6%83%85%E5%A0%B1%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B):「情報の信頼性」の部分。
 
 - **なお、以下に出てくる用語に逐一リンクはつけない。ググること！**
 
