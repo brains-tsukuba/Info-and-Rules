@@ -2,14 +2,17 @@
 # この資料の前提
 
 ## この資料が参考にした資料（目を通すこと）
-- https://www.youtube.com/watch?v=sBzRwzY7G-k
-   - プログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
 
 - [人は一ヶ月でエンジニアになれるのか](https://www.slideshare.net/kiyotoyamaura/1-45361529)
   - [上記解説](https://www.slideshare.net/livesense/ss-46078743)
 - [学生時代に知っておきたかったWeb技術の学び方の学び方](https://www.slideshare.net/livesense/web-49772012)
 - [プロのプログラマーになるために本当に必要なスキルとは](https://www.lifehacker.jp/2015/01/150127pro_program.html)
-- [How to Become a Successful Software Engineer - YouTube](https://www.youtube.com/watch?v=nj3ptLyUwgI)
+- [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - YouTube](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+   - Web開発者やプログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
+    - 英語わからなくても自動翻訳の字幕で内容はなんとなくわかる。わからないのあれば、キーワードググれば良い。
+   - [動画をまとめたマインドマップ](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+    - あまりに内容が多すぎて深い。だが全てをやる必要はない。要所だけを抑えれば良い。
+  
 
 ## この資料が目指すもの
 - 自走できるようになるのが目的。
