@@ -73,8 +73,10 @@
 
 ## プログラミング関連の[ググり方](https://www.google.co.jp/search?q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%AB&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=lhtOWKPYMajf8AfDsqfoBA#safe=active&q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E8%AA%BF%E3%81%B9%E6%96%B9+%E3%82%B0%E3%82%B0%E3%82%8A%E6%96%B9)を知る（めちゃ重要）
 - プログラミングスキルは、自らググりながら、本読みながら得ることで血肉化する。
-   - [Read Search Ask](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) が、手詰まりになったときの基本
+   - [Read Search Ask](https://medium.freecodecamp.com/read-search-dont-be-afraid-to-ask-743a23c411b4) が、手詰まりになったときの基本
      - StackOverflowもうまく使うと良い。英語での検索を覚えよう。
+- 各情報源の信頼性や使い分けも意識すること
+  - [参考リンク](http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#3-%E6%83%85%E5%A0%B1%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B)
 
 - **なお、以下に出てくる用語に逐一リンクはつけない。ググること！**
 
@@ -84,6 +86,14 @@
 - https://screeps.com/ 
  - 飛ばしても可。遊び。
 
+## 練習問題を解く
+- 以下は過去にVOYAGE GROUPというWeb系の会社が学生にさせた、プログラミングの練習問題である。
+  - [Level.1 - 2015 - Challenge CTO of VOYAGE GROUP](https://gist.github.com/makoga/43159ac43c43a014e029)
+  - [Level.1 - 2016 1st - Challenge CTO of VOYAGE GROUP](https://gist.github.com/makoga/1688d83212525e647bbd44aaf2660acd)
+- Level1~3まであり、徐々に仕様が複雑になっていく。
+- 好きな言語でやれば良い。
+
+
 ## [gitHubを使い](http://qiita.com/nnahito/items/565f8755e70c51532459)、覚える（めちゃ重要）
 - Try and Errorできる環境を作る。
 
@@ -91,6 +101,12 @@
 - HTML, CSS, JSの一旦の区切り＆自分を売る意識。
    - 入門で作ったものを載せる。
      - モチベーションにしていく。
+
+## デバッグの仕方やエラーメッセージの仕方を知る
+
+- 次のすごろくの課題でどうせエラーに遭遇するので。
+- 参考：[勉強のためのデバッグを行う](http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#4-%E5%8B%89%E5%BC%B7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%86)
+- 「言語 エラーメッセージ」とか「言語　デバッグ」とか「エディタ　デバッグ」とかでググる。
 
 ## すごろくを作る。（以下のステップを追う)
 
