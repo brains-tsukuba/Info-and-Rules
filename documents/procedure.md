@@ -6,10 +6,7 @@
 https://slack.com/downloads/
 
     - 招待がメールアドレスに来てない場合は言ってください。
-    - important_info channel とself_introduction channelに加入してください。
-        - *channel に加入する方法
-            - サイドメニューにある CHANNELS　をクリックして channelを選択して加入してください.
-            - 個人への連絡もSlackでするので、通知はOnのままにしてください。
+        - 個人への連絡もSlackでするので、通知はOnのままにしてください。
 
         - self_introduction channel で自己紹介をしましょう
 
