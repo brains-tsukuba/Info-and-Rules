@@ -1,0 +1,17 @@
+import re
+
+def blankify():
+    with open("README.md", "r", encoding="utf8") as file:
+        str = file.read()
+        pattern = re.compile('\[(.*)\]\((http.*)\)', re.VERBOSE)
+        replaced_str = pattern.sub(r"<a href='\2' target='_blank'>\1</a>", str)
+        print(replaced_str)
+
+
+def main():
+    blankify()
+
+
+if __name__ == '__main__':
+    main()
+
