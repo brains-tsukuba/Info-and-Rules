@@ -94,7 +94,7 @@ Brainsは、『世界を進めるIT界Brainsを輩出する』ことをビジョ
 	- プログラミングでやりたいことを想像する力
 
 ### 2.1.2. マッチング確認方法
-マッチングの確認のために試験と面接を加入希望者に対してする。試験内容は[GitHub参照](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/entrance_test.md)。**別途資料を用意スべし**。
+マッチングの確認のために試験と面接を加入希望者に対してする。試験内容は<a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/entrance_test.md' target='_blank'>GitHub参照</a>。**別途資料を用意スべし**。
 
 ### 2.1.3. 採用スべきでない人材像
 なお、気をつけるべきなのは、我々は
@@ -137,7 +137,7 @@ Webの管理は、上のような団体定義、採用したい人物像の定�
 リクルーティングで無事メンバーが加入しても、そのメンバーがすぐに辞めてしまったら、入った側も組織側も勿体無い。それを防ぐためには、上述したリクルーティングの際のマッチングの見極めと、入ったメンバーのマネジメントが大切になる。
 
 ### 2.2.1. メンバーマネジメントとは？
-[マネジメントとは？ ](http://www.toha-search.com/keizai/management.htm "マネジメントとは？ マネジメントの意味をわかりやすく解説 - 【とはサーチ】")
+<a href='http://www.toha-search.com/keizai/management.htm "マネジメントとは？ マネジメントの意味をわかりやすく解説 - 【とはサーチ】"' target='_blank'>マネジメントとは？ </a>
 
 >マネジメントは一般に”管理”と訳されるが、経営管理論から生み出された様々なマネジメント理論には、”管理”という意味合いの他にも、”評価・分析・選択・改善・回避・統合・計画・調整・指揮・統制・組織化”など様々な要素を含んでおり、これらを総合した概念をマネジメントだと考えた方が理解しやすい。
 
@@ -171,15 +171,15 @@ Webの管理は、上のような団体定義、採用したい人物像の定�
 ### 2.2.3. 具体的なマネジメント
 マネジメントの目的を上で定義したが、ではどのような具体的な施策に落とし込むか。
 - 1 on 1
-	- [Yahoo!Japanの「1on1 ミーティング」に学ぶ！本間浩輔様　特別インタビュー](https://recruit-lc.jp/interview/1on1.html "Yahoo!Japanの「1on1 ミーティング」に学ぶ！本間浩輔様　特別インタビュー｜お客様導入事例｜社員研修・社員教育のリクルート ラーニングクラブ")
-	- [ヤフーの1on1 部下を成長させるコミュニケーション技法とは？ ](http://io-diary.com/mt/2017/05/yahoo-1on1.php "ヤフーの1on1 部下を成長させるコミュニケーション技法とは？ | I / O Diary")
+	- <a href='https://recruit-lc.jp/interview/1on1.html "Yahoo!Japanの「1on1 ミーティング」に学ぶ！本間浩輔様　特別インタビュー｜お客様導入事例｜社員研修・社員教育のリクルート ラーニングクラブ"' target='_blank'>Yahoo!Japanの「1on1 ミーティング」に学ぶ！本間浩輔様　特別インタビュー</a>
+	- <a href='http://io-diary.com/mt/2017/05/yahoo-1on1.php "ヤフーの1on1 部下を成長させるコミュニケーション技法とは？ | I / O Diary"' target='_blank'>ヤフーの1on1 部下を成長させるコミュニケーション技法とは？ </a>
 	- メンバーが上司に言いたいことを話す。目標、アイデア提案、悩み諸々。
 		- メンバーが目指す方向性のヒントを与えることや、目的到達の妨げを排除することが目的である。
 - メンバー目標の共有。
 	- 可能なら大/中/小の目標にわけるべし。
 	- お互いの目標と進捗がわかるプラットフォームを用意スべし
 - 性格診断結果の共有
-	- [Strength Finder](https://www.viacharacter.org/survey/account/register)や、[16type診断](https://www.16personalities.com/ja)などの結果を共有
+	- <a href='https://www.16personalities.com/ja' target='_blank'>Strength Finder](https://www.viacharacter.org/survey/account/register)や、[16type診断</a>などの結果を共有
 		- お互いの長所、気質、傾向を知ったほうが相乗効果や最適配置を生みやすい。
 - メンバーが組織においてお互いの気質や適正を理解した上で、役割を持つ。
 	- 代表、幹部、人事、広報、会計、インフラ自動化、マネジメント
@@ -194,6 +194,12 @@ Webの管理は、上のような団体定義、採用したい人物像の定�
 	- プロジェクトを自由に進める場合の単位として使うもよし。
 	- 前期後期で組の入れ替えをする
 
+
+### 2.3 入部フロー
+上記
+- 2.1 リクルーティング
+- 2.2 マネジメント
+をふまえ、加入希望者が加入のための諸手続きをスムーズにできるような仕組みを整えるべきである。
 
 
 # 3. 団体内通常活動
@@ -232,9 +238,9 @@ OB会などを実施するのもいい。
 ## 3.3. プログラミングの学習
 
 以下を進める。
-- [入部課題](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/entrance_test.md "Info-and-Rules/entrance_test.md at master · brains-tsukuba/Info-and-Rules")
-- [カリキュラム](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md "Info-and-Rules/documents/curriculum.md at master · brains-tsukuba/Info-and-Rules")
-- [PyQ](https://pyq.jp/)
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/entrance_test.md "Info-and-Rules/entrance_test.md at master · brains-tsukuba/Info-and-Rules"' target='_blank'>入部課題</a>
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md "Info-and-Rules/documents/curriculum.md at master · brains-tsukuba/Info-and-Rules"' target='_blank'>カリキュラム</a>
+- <a href='https://pyq.jp/' target='_blank'>PyQ</a>
 	- PyQの精度にもよるが、PyQ丸投げもありな気がしてきた。
 	- カリキュラムの『githubを使い、覚える』までやったひとで、Pythonやりたい人はPyQって使い方もありかな
 	
@@ -306,8 +312,8 @@ OB会などを実施するのもいい。
 ### 4.2.2. 契約締結、見積書
 
 - **契約書のテンプレート**があるので、それを用いること。
-- 見積書、請求書は[Misoca](https://www.misoca.jp/)を使うこと。
-- [クラウドサイン](https://www.cloudsign.jp/ "クラウドサイン｜Web完結・印紙税0円の電子契約サービス") を使うことがクライアントから了承を得られた場合、それを使用すること。
+- 見積書、請求書は<a href='https://www.misoca.jp/' target='_blank'>Misoca</a>を使うこと。
+- <a href='https://www.cloudsign.jp/ "クラウドサイン｜Web完結・印紙税0円の電子契約サービス"' target='_blank'>クラウドサイン</a> を使うことがクライアントから了承を得られた場合、それを使用すること。
 
 ### 4.2.3. 納品、保守
 保守を

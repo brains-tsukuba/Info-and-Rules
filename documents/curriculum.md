@@ -3,14 +3,14 @@
 
 ## この資料が参考にした資料（目を通すこと）
 
-- [人は一ヶ月でエンジニアになれるのか](https://www.slideshare.net/kiyotoyamaura/1-45361529)
-  - [上記解説](https://www.slideshare.net/livesense/ss-46078743)
-- [学生時代に知っておきたかったWeb技術の学び方の学び方](https://www.slideshare.net/livesense/web-49772012)
-- [プロのプログラマーになるために本当に必要なスキルとは](https://www.lifehacker.jp/2015/01/150127pro_program.html)
-- [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - YouTube](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+- <a href='https://www.slideshare.net/kiyotoyamaura/1-45361529' target='_blank'>人は一ヶ月でエンジニアになれるのか</a>
+  - <a href='https://www.slideshare.net/livesense/ss-46078743' target='_blank'>上記解説</a>
+- <a href='https://www.slideshare.net/livesense/web-49772012' target='_blank'>学生時代に知っておきたかったWeb技術の学び方の学び方</a>
+- <a href='https://www.lifehacker.jp/2015/01/150127pro_program.html' target='_blank'>プロのプログラマーになるために本当に必要なスキルとは</a>
+- <a href='https://www.youtube.com/watch?v=sBzRwzY7G-k' target='_blank'>2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - YouTube</a>
    - Web開発者やプログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
     - 英語わからなくても自動翻訳の字幕で内容はなんとなくわかる。わからないのあれば、キーワードググれば良い。
-   - [動画をまとめたマインドマップ](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+   - <a href='https://coggle.it/diagram/Vz9LvW8byvN0I38x' target='_blank'>動画をまとめたマインドマップ</a>
     - あまりに内容が多すぎて深い。だが全てをやる必要はない。要所だけを抑えれば良い。
   
 
@@ -22,9 +22,9 @@
        - そのための基礎力をつけるのが、以下のカリキュラムの内容。
 
 ## 大前提のスキル： 
-- [ブラインドタッチ](https://digitalfan.jp/109395)
-- [ITパスポート](https://www.google.co.jp/search?q=it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=bmYNWbWPOqvz8AfEopjwBg)レベルの知識とPCスキル
-- [入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md)を実施済みであること
+- <a href='https://digitalfan.jp/109395' target='_blank'>ブラインドタッチ</a>
+- <a href='https://www.google.co.jp/search?q=it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=bmYNWbWPOqvz8AfEopjwBg' target='_blank'>ITパスポート</a>レベルの知識とPCスキル
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md' target='_blank'>入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）</a>を実施済みであること
 
 ## カリキュラムの変更について
 - 随時改善提案を歓迎します。良い教材や、やる順番などあったら、教えてください。
@@ -35,7 +35,7 @@
 
 やる内容を見出しに書き、字下げしたところにその後に理由等を箇条書している。
 
-## Google Apps Scriptで「[お天気Webアプリ](http://paiza.hatenablog.com/entry/2016/08/09/%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%E6%90%8D%E3%81%99%E3%82%8BGoogle_Apps_Script%E3%81%AE%E5%A4%96%E9%83%A8JSON%E3%83%87%E3%83%BC%E3%82%BF%E9%80%A3%E6%90%BA%E8%A1%93%EF%BC%81%E3%81%99%E3%81%B9)」を作る。
+## Google Apps Scriptで「<a href='http://paiza.hatenablog.com/entry/2016/08/09/%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%8D%E3%82%83%E6%90%8D%E3%81%99%E3%82%8BGoogle_Apps_Script%E3%81%AE%E5%A4%96%E9%83%A8JSON%E3%83%87%E3%83%BC%E3%82%BF%E9%80%A3%E6%90%BA%E8%A1%93%EF%BC%81%E3%81%99%E3%81%B9' target='_blank'>お天気Webアプリ</a>」を作る。
 プログラミングの可能性を感じる。
 
 
@@ -58,7 +58,7 @@
 - http://dotinstall.com/lessons/stop_watch_js_v3
 
 #### 留意点
-- エディタにこだわりがなければ、Brackets(or VS Code or SublimeText)を使ってみてください。
+- エディタにこだわりがなければ、Brackets(or VS Code)を使ってみてください。
   - エディタの内容をブラウザに描画するのが楽なので。
 
 #### ドットインストールをやる目的
@@ -71,12 +71,12 @@
    - どんなアプリ？誰が使う？どんなスキル必要そう？
       - これをモチベとして随時確認スべき。
 
-## プログラミング関連の[ググり方](https://www.google.co.jp/search?q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%AB&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=lhtOWKPYMajf8AfDsqfoBA#safe=active&q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E8%AA%BF%E3%81%B9%E6%96%B9+%E3%82%B0%E3%82%B0%E3%82%8A%E6%96%B9)を知る（めちゃ重要）
+## プログラミング関連の<a href='https://www.google.co.jp/search?q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%AB&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=lhtOWKPYMajf8AfDsqfoBA#safe=active&q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E8%AA%BF%E3%81%B9%E6%96%B9+%E3%82%B0%E3%82%B0%E3%82%8A%E6%96%B9' target='_blank'>ググり方</a>を知る（めちゃ重要）
 - プログラミングスキルは、自らググりながら、本読みながら得ることで血肉化する。
-   - [Read Search Ask](https://medium.freecodecamp.com/read-search-dont-be-afraid-to-ask-743a23c411b4) が、手詰まりになったときの基本
+   - <a href='https://medium.freecodecamp.com/read-search-dont-be-afraid-to-ask-743a23c411b4' target='_blank'>Read Search Ask</a> が、手詰まりになったときの基本
      - StackOverflowもうまく使うと良い。英語での検索を覚えよう。
 - 各情報源の信頼性や使い分けも意識すること
-  - [参考リンク](http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#3-%E6%83%85%E5%A0%B1%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B):「情報の信頼性」の部分。
+  - <a href='http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#3-%E6%83%85%E5%A0%B1%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B' target='_blank'>参考リンク</a>:「情報の信頼性」の部分。
 
 - **なお、以下に出てくる用語に逐一リンクはつけない。ググること！**
 
@@ -88,16 +88,16 @@
 
 ## 練習問題を解く
 - 以下は過去にVOYAGE GROUPというWeb系の会社が学生にさせた、プログラミングの練習問題である。
-  - [Level.1 - 2015 - Challenge CTO of VOYAGE GROUP](https://gist.github.com/makoga/43159ac43c43a014e029)
-  - [Level.1 - 2016 1st - Challenge CTO of VOYAGE GROUP](https://gist.github.com/makoga/1688d83212525e647bbd44aaf2660acd)
+  - <a href="https://gist.github.com/makoga/e8da3f317c90ed47d8d4" target="_blank">Level.1 - 2015 2nd - Challenge CTO of VOYAGE GROUP · GitHub</a>
+  - <a href="https://gist.github.com/makoga/1688d83212525e647bbd44aaf2660acd" target="_blank">Level.1 - 2016 1st - Challenge CTO of VOYAGE GROUP · GitHub</a>
 - Level1~3まであり、徐々に仕様が複雑になっていく。
 - 好きな言語でやれば良い。
 
 
-## [gitHubを使い](http://qiita.com/nnahito/items/565f8755e70c51532459)、覚える（めちゃ重要）
+## <a href='http://qiita.com/nnahito/items/565f8755e70c51532459' target='_blank'>gitHubを使い</a>、覚える（めちゃ重要）
 - Try and Errorできる環境を作る。
 
-## ポートフォリオを[gitHub.io](http://qiita.com/ryokosuge/items/f929821ba5ae9ba2c32b)に作る。
+## ポートフォリオを<a href='http://qiita.com/ryokosuge/items/f929821ba5ae9ba2c32b' target='_blank'>gitHub.io</a>に作る。
 - HTML, CSS, JSの一旦の区切り＆自分を売る意識。
    - 入門で作ったものを載せる。
      - モチベーションにしていく。
@@ -105,21 +105,21 @@
 ## デバッグの仕方やエラーメッセージの仕方を知る
 
 - 次のすごろくの課題でどうせエラーに遭遇するので。
-- 参考：[勉強のためのデバッグを行う](http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#4-%E5%8B%89%E5%BC%B7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%86)
+- 参考：<a href='http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#4-%E5%8B%89%E5%BC%B7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%86' target='_blank'>勉強のためのデバッグを行う</a>
 - 「言語 エラーメッセージ」とか「言語　デバッグ」とか「エディタ　デバッグ」とかでググる。
 
 ## すごろくを作る。（以下のステップを追う)
 
 - 仕様甘いかもしれないので、質問あったら言って。
-- [Step1](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku1.md)
-- [Step2](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku2.md)
-- [Step3](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku3.md)
-- [Step4](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku4.md)
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku1.md' target='_blank'>Step1</a>
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku2.md' target='_blank'>Step2</a>
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku3.md' target='_blank'>Step3</a>
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/sugoroku/sugoroku4.md' target='_blank'>Step4</a>
 
-  - Step4[最低限のライン](https://repl.it/CiPJ/18)（←の改善点は？（A.クラスを作る/グローバル変数を使わない等））
+  - Step4<a href='https://repl.it/CiPJ/18' target='_blank'>最低限のライン</a>（←の改善点は？（A.クラスを作る/グローバル変数を使わない等））
 - 継続的に使えるシステムを作ることの難しさを体感する。
   - クラス設計、リーダブルコードなどを意識。
-  - [陽平が作った見本](https://github.com/brains-tsukuba/sugoroku)
+  - <a href='https://github.com/brains-tsukuba/sugoroku' target='_blank'>陽平が作った見本</a>
 
 
 **これより↑ができて、あと少しWordpressの知識があれば、シンプルなウェブサイトの制作案件を受けられるようになります。**
@@ -175,9 +175,9 @@
  - ただのWebサイト(HTML,CSS,JS)
     - モックアップ作製ツールやBootstrapエディタで楽できるかも？
      - 保守の必要性がない、短期間しか使わないようなページなどには使える
-       - [各種Bootstrapエディタ](https://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/)
-       - [mobirise](https://mobirise.com/ja/)
-       - [Bootstrap Studio](https://bootstrapstudio.io/)
+       - <a href='https://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/' target='_blank'>各種Bootstrapエディタ</a>
+       - <a href='https://mobirise.com/ja/' target='_blank'>mobirise</a>
+       - <a href='https://bootstrapstudio.io/' target='_blank'>Bootstrap Studio</a>
  - デスクトップ
    - C# or Electron.js
  - スマホ
