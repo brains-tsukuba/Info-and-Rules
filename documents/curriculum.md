@@ -1,5 +1,46 @@
 
-# この資料の前提
+# このカリキュラムの前提  
+
+## このカリキュラムが目指すもの
+- 自走できるようになるのが目的。
+ - プログラミングやITの世界は変化が激しい。
+   - それについていけなくては、生きていけない。Brainになれない。
+     - 従って、自ら学ぶスキルが重要になる。
+       - そのための基礎力をつけるのが、以下のカリキュラムの内容。
+
+
+<!-- TOC -->
+
+- [このカリキュラムの前提](#このカリキュラムの前提)
+    - [このカリキュラムが目指すもの](#このカリキュラムが目指すもの)
+    - [この資料が参考にした資料（目を通すこと）](#この資料が参考にした資料目を通すこと)
+    - [前提のスキル：](#前提のスキル)
+    - [カリキュラムの変更について](#カリキュラムの変更について)
+- [以下実際のカリキュラム](#以下実際のカリキュラム)
+    - [Google Apps Scriptで「<a href='http://paiza.hatenablog.com/entry/2016/08/09/知らなきゃ損するGoogle_Apps_Scriptの外部JSONデータ連携術！すべ' target='_blank'>お天気Webアプリ</a>」を作る。](#google-apps-scriptでa-hrefhttppaizahatenablogcomentry20160809google_apps_scriptjson-target_blankお天気webアプリaを作る)
+    - [ドットインストールで入門する](#ドットインストールで入門する)
+        - [HTML/CSS:](#htmlcss)
+        - [Javascript:](#javascript)
+            - [留意点](#留意点)
+            - [ドットインストールをやる目的](#ドットインストールをやる目的)
+    - [プログラミングで何をしたいか問題を考える](#プログラミングで何をしたいか問題を考える)
+    - [プログラミング関連の<a href='https://www.google.co.jp/search?q=プログラミング+必要なスキル&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=lhtOWKPYMajf8AfDsqfoBA#safe=active&q=プログラミング+調べ方+ググり方' target='_blank'>ググり方</a>を知る（めちゃ重要）](#プログラミング関連のa-hrefhttpswwwgooglecojpsearchqieutf-8oeutf-8clientfirefox-b-abgfe_rdcreilhtowkpymajf8afdsqfobasafeactiveq-target_blankググり方aを知るめちゃ重要)
+    - [遊びながらプログラミングを復習する](#遊びながらプログラミングを復習する)
+    - [デバッグの仕方やエラーメッセージの仕方を知る](#デバッグの仕方やエラーメッセージの仕方を知る)
+    - [練習問題を解く](#練習問題を解く)
+    - [<a href='http://qiita.com/nnahito/items/565f8755e70c51532459' target='_blank'>gitHubを使い</a>、覚える（めちゃ重要）](#a-hrefhttpqiitacomnnahitoitems565f8755e70c51532459-target_blankgithubを使いa覚えるめちゃ重要)
+    - [ポートフォリオを<a href='http://qiita.com/ryokosuge/items/f929821ba5ae9ba2c32b' target='_blank'>gitHub.io</a>に作る。](#ポートフォリオをa-hrefhttpqiitacomryokosugeitemsf929821ba5ae9ba2c32b-target_blankgithubioaに作る)
+    - [すごろくを作る。（以下のステップを追う)](#すごろくを作る以下のステップを追う)
+    - [BaaSを使って、Todoアプリを作る。](#baasを使ってtodoアプリを作る)
+    - [Todoアプリを、チャットアプリに変える。](#todoアプリをチャットアプリに変える)
+    - [現状の武器で、自分専用の簡単なアプリを作る。](#現状の武器で自分専用の簡単なアプリを作る)
+    - [オープンソースアプリを使って、コードを読み、改造する。](#オープンソースアプリを使ってコードを読み改造する)
+    - [エンジニアのキャリア像や、スキルマップの確認する](#エンジニアのキャリア像やスキルマップの確認する)
+    - [アプリやシステムを開発する](#アプリやシステムを開発する)
+- [サービスを開発していく](#サービスを開発していく)
+    - [lean start upをしていく。](#lean-start-upをしていく)
+
+<!-- /TOC -->
 
 ## この資料が参考にした資料（目を通すこと）
 
@@ -7,24 +48,13 @@
   - <a href='https://www.slideshare.net/livesense/ss-46078743' target='_blank'>上記解説</a>
 - <a href='https://www.slideshare.net/livesense/web-49772012' target='_blank'>学生時代に知っておきたかったWeb技術の学び方の学び方</a>
 - <a href='https://www.lifehacker.jp/2015/01/150127pro_program.html' target='_blank'>プロのプログラマーになるために本当に必要なスキルとは</a>
-- <a href='https://www.youtube.com/watch?v=sBzRwzY7G-k' target='_blank'>2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - YouTube</a>
-   - Web開発者やプログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
-    - 英語わからなくても自動翻訳の字幕で内容はなんとなくわかる。わからないのあれば、キーワードググれば良い。
-   - <a href='https://coggle.it/diagram/Vz9LvW8byvN0I38x' target='_blank'>動画をまとめたマインドマップ</a>
-    - あまりに内容が多すぎて深い。だが全てをやる必要はない。要所だけを抑えれば良い。
-  
 
-## この資料が目指すもの
-- 自走できるようになるのが目的。
- - プログラミングやITの世界は変化が激しい。
-   - それについていけなくては、生きていけない。Brainになれない。
-     - 従って、自ら学ぶスキルが重要になる。
-       - そのための基礎力をつけるのが、以下のカリキュラムの内容。
-
-## 大前提のスキル： 
+## 前提のスキル： 
 - <a href='https://digitalfan.jp/109395' target='_blank'>ブラインドタッチ</a>
 - <a href='https://www.google.co.jp/search?q=it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=bmYNWbWPOqvz8AfEopjwBg' target='_blank'>ITパスポート</a>レベルの知識とPCスキル
 - <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md' target='_blank'>入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）</a>を実施済みであること
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/procedure.md' target='_blank'>入部後手続き</a>を完了済みであること
+
 
 ## カリキュラムの変更について
 - 随時改善提案を歓迎します。良い教材や、やる順番などあったら、教えてください。
@@ -86,6 +116,13 @@
 - https://screeps.com/ 
  - 飛ばしても可。遊び。
 
+## デバッグの仕方やエラーメッセージの仕方を知る
+
+- 今後たくさんのエラーに遭遇するうえで、それらの解決法を知るべき。
+- 参考：<a href='http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#4-%E5%8B%89%E5%BC%B7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%86' target='_blank'>勉強のためのデバッグを行う</a>
+- 「言語 エラーメッセージ」とか「言語　デバッグ」とか「エディタ　デバッグ」とかでググる。
+
+
 ## 練習問題を解く
 - 以下は過去にVOYAGE GROUPというWeb系の会社が学生にさせた、プログラミングの練習問題である。
   - <a href="https://gist.github.com/makoga/e8da3f317c90ed47d8d4" target="_blank">Level.1 - 2015 2nd - Challenge CTO of VOYAGE GROUP · GitHub</a>
@@ -102,12 +139,6 @@
    - 入門で作ったものを載せる。
      - モチベーションにしていく。
 
-## デバッグの仕方やエラーメッセージの仕方を知る
-
-- 次のすごろくの課題でどうせエラーに遭遇するので。
-- 参考：<a href='http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#4-%E5%8B%89%E5%BC%B7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%86' target='_blank'>勉強のためのデバッグを行う</a>
-- 「言語 エラーメッセージ」とか「言語　デバッグ」とか「エディタ　デバッグ」とかでググる。
-
 ## すごろくを作る。（以下のステップを追う)
 
 - 仕様甘いかもしれないので、質問あったら言って。
@@ -122,7 +153,7 @@
   - <a href='https://github.com/brains-tsukuba/sugoroku' target='_blank'>陽平が作った見本</a>
 
 
-**これより↑ができて、あと少しWordpressの知識があれば、シンプルなウェブサイトの制作案件を受けられるようになります。**
+**以上の知識と、少しのWordpressの知識があれば、シンプルなウェブサイトの制作案件を受けられるはず！→割りと食べていける！**
 
 ------
 
@@ -155,6 +186,12 @@
 
 ## エンジニアのキャリア像や、スキルマップの確認する
 
+- <a href='https://www.youtube.com/watch?v=sBzRwzY7G-k' target='_blank'>2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - YouTube</a>
+   - Web開発者やプログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
+    - 英語わからなくても自動翻訳の字幕で内容はなんとなくわかる。わからない単語があれば、ググれば良い。
+   - <a href='https://coggle.it/diagram/Vz9LvW8byvN0I38x' target='_blank'>動画をまとめたマインドマップ</a>
+    - 
+
 - キャリア
  - フロントエンド、バックエンド、インフラ（DevOps）、データ解析、プロダクトマネージャー等
 
@@ -167,7 +204,7 @@
 
 1. 作りたいもの選定
 
- 最初は既存のオープンソースのものを自分が使いやすくなるようにいじるとか、自分しか使わないけど自分にとっては便利なものなどを作ってみる。
+- 最初は既存のオープンソースのものを自分が使いやすくなるようにいじるとか、自分しか使わないけど自分にとっては便利なものなどを作ってみる。
 
 2. 覚える/使う技術の選定
  - 簡易なWebアプリ→ js (React jQuery etc...) & mbaas

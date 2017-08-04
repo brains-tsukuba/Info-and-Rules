@@ -2,22 +2,23 @@
 
 活動を円滑にするために、加入者にお願いしている諸手続きがあるので、それぞれやってください。
 
-1. Slack（業務用チャットツール）のデスクトップアプリとスマホアプリをインストールしましょう。
-https://slack.com/downloads/
+1. [Slack（業務用チャットツール）](https://slack.com/downloads/
+)のデスクトップアプリとスマホアプリをインストールしましょう。
 
     - 招待がメールアドレスに来てない場合は言ってください。
         - 個人への連絡もSlackでするので、通知はOnのままにしてください。
         - self_introduction channel で自己紹介をしましょう
+            - Willと付けたいスキルを明記してください
 
-1. <a href='https://github.com/brains-tsukuba/Info-and-Rules' target='_blank'>README.md</a>にBrainsで活動するための情報や制度が書いてあるので, 目を通してください.
+1. <a href='https://github.com/brains-tsukuba/Info-and-Rules' target='_blank'>README.md</a>にBrainsで活動するための情報や制度が書いてあるので, 目を通してください。
 
 1. documentsディレクトリにあるドキュメント（以下二つ↓）も目を通しておきましょう。
     
     1. <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md' target='_blank'>curriculum.md-カリキュラム</a>　（読んで全体像を把握しておきましょう）
 
-    1. <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/management.md' target='_blank'>management.md-運営やマネジメントについて</a>　（長いので、運営や役職に興味ある人はどうぞ。）
+    1. <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/management.md' target='_blank'>management.md-運営やマネジメントについて</a>　（長いので、チームづくりやマーケティング/マネジメントに興味ある人はどうぞ。興味持ってほしくはあります。）
  
-1. GitHub(https://github.com/)のアカウントを作りましょう。
+1. [GitHub](https://github.com/)のアカウントを作りましょう。
 
 
 1. Slackのbrainsbotから送られているはずのリンクから名簿に必要事項の記入をお願いします。なおこのリンクは絶対に流出させないように!! 情報の悪用も当然厳禁です!!

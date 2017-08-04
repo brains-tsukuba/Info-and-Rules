@@ -1,16 +1,21 @@
 import re
 
-def blankify():
-    with open("README.md", "r", encoding="utf8") as file:
+def get_converted_str():
+    with open("./documents/procedure.md", "r", encoding="utf8") as file:
         str = file.read()
         pattern = re.compile('\[(.*)\]\((http.*)\)', re.VERBOSE)
         replaced_str = pattern.sub(r"<a href='\2' target='_blank'>\1</a>", str)
         print(replaced_str)
+        return replaced_str
+
+def write_to_file(str):
+    with open("./documents1/procedure.md", "w", encoding="utf8") as file:
+        file.write(str)
 
 
 def main():
-    blankify()
-
+    str = get_converted_str()
+    write_to_file(str)
 
 if __name__ == '__main__':
     main()
