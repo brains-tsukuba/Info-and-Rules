@@ -13,6 +13,7 @@
 
 - [このカリキュラムの前提](#このカリキュラムの前提)
     - [このカリキュラムが目指すもの](#このカリキュラムが目指すもの)
+    - [目次](#目次)
     - [この資料が参考にした資料（目を通すこと）](#この資料が参考にした資料目を通すこと)
     - [前提のスキル：](#前提のスキル)
     - [カリキュラムの変更について](#カリキュラムの変更について)
@@ -204,48 +205,47 @@
 
 1. 作りたいもの選定
 
-- 最初は既存のオープンソースのものを自分が使いやすくなるようにいじるとか、自分しか使わないけど自分にとっては便利なものなどを作ってみる。
+    - 最初は既存のオープンソースのものを自分が使いやすくなるようにいじるとか、自分しか使わないけど自分にとっては便利なものなどを作ってみる。
 
 2. 覚える/使う技術の選定
- - 簡易なWebアプリ→ js (React jQuery etc...) & mbaas
- - データの処理が複雑なWebアプリ→node.js か、rails、Python でAPIを作る。
- - ただのWebサイト(HTML,CSS,JS)
-    - モックアップ作製ツールやBootstrapエディタで楽できるかも？
+    - 簡易なWebアプリ→ js (React jQuery etc...) & mbaas
+    - データの処理が複雑なWebアプリ→node.js か、rails、Python でAPIを作る。
+    - ただのWebサイト(HTML,CSS,JS)
+      - モックアップ作製ツールやBootstrapエディタで楽できるかも？
      - 保守の必要性がない、短期間しか使わないようなページなどには使える
        - <a href='https://blog.htmlhifive.com/2016/02/12/bootstrap-easy-view-creator/' target='_blank'>各種Bootstrapエディタ</a>
        - <a href='https://mobirise.com/ja/' target='_blank'>mobirise</a>
        - <a href='https://bootstrapstudio.io/' target='_blank'>Bootstrap Studio</a>
- - デスクトップ
-   - C# or Electron.js
- - スマホ
-   - Swift/Kotlin + mbaas
- - バックもスマホフロントエンドも一つの言語で！
-    - C# (ASP.NET ＆ Xamarin)
-    - js (node.js ＆ ReactNative)
-    - PWA(プログレッシブWEBアプリ)
+    - デスクトップ
+      - C# or Electron.js
+    - スマホ
+      - Swift/Kotlin + mbaas
+    - バックもスマホフロントエンドも一つの言語で！
+        - C# (ASP.NET ＆ Xamarin)
+        - js (node.js ＆ ReactNative)
+        - PWA(プログレッシブWEBアプリ)
 3. IDEを選ぶ
- - Visual Studio、Intellijの2つがモダンでメジャーかな？
+    - Visual Studio、Intellijの2つがモダンでメジャーかな？
 
 4. paas, iaas, baasを選ぶ（必要なら）
- - Azure, AWS, GCP, Firebase
+    - Azure, AWS, GCP, Firebase
 
-5. 各言語の詳細技術を覚える。
-上から順に重要な気がする。
- - Unit/Functional Testing
- - API's / Restful Services
- - Microservice
- - Catching(Nginx, Apache, Database(redis), In-Memory)
- - ORM/Data Structure
- - RDBMS
- - Authorization （Oauth2）
- - Security
- - Deploying
- - Websocket
- - Search Engine
+5. 各言語の詳細技術を覚える。上から順に重要な気がする。
+    - Unit/Functional Testing
+    - API's / Restful Services
+    - Microservice
+    - Catching(Nginx, Apache, Database(redis), In-Memory)
+    - ORM/Data Structure
+    - RDBMS
+    - Authorization （Oauth2）
+    - Security
+    - Deploying
+    - Websocket
+    - Search Engine
 
 6. 開発(要件定義、設計も含める)
- - キャリア/スキル確認〜〜開発までの流れを2〜3回繰り返す。
-  - 2~3回繰り返した頃には、余裕で自分で学べるステージに入っているはず。
+    - キャリア/スキル確認〜〜開発までの流れを2〜3回繰り返す。
+      - 2~3回繰り返した頃には、余裕で自分で学べるステージに入っているはず。
 
 --- 
 
