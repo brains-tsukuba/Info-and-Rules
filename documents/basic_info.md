@@ -63,6 +63,6 @@ Brainsは筑波大学公認のプログラミング/IT人財育成サークル�
 学部時代は、ITや経営工学や英語を学ぶ傍ら、リクルートホールディング社や筑波大生を支援するベンチャー企業等でインターン経験を積み、また国費でアメリカ留学プロジェクトや海外フィールドワーク等にも参加。英検1級も取得。卒論では、主に病院待ち時間の軽減策について執筆。
 
 『世界を進めるIT界のBrainを輩出する』というビジョンのもとプログラミングサークルを2016年に立ち上げ、その現代表を務める。
-1年で10人の団体に育て上げ、メンバーの技術力と人間力の向上をサポートする傍ら、チームで企業のWebコンサルなどを請け負う。近頃はその活動が認められ、[地元新聞(pdf)](https://github.com/RyosukeTakahashi/Brains_IT/raw/master/img/jouyou_brains.pdf)や[Web](http://share-study.net/interview_serviceengineering/)などのメディアに取り上げられ、スポンサーになる企業も現れている。
+1年で10人以上の団体に育て上げ、メンバーの技術力と人間力の向上をサポートする傍ら、チームで企業のWebコンサルなどを請け負う。近頃はその活動が認められ、[地元新聞(pdf)](https://github.com/RyosukeTakahashi/Brains_IT/raw/master/img/jouyou_brains.pdf)や[Web](http://share-study.net/interview_serviceengineering/)などのメディアに取り上げられ、スポンサーになる企業も現れている。
 
 夢は『人の可能性の最大化』。人間が好き。
