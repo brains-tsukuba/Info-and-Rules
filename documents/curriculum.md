@@ -13,7 +13,6 @@
 
 - [このカリキュラムの前提](#このカリキュラムの前提)
     - [このカリキュラムが目指すもの](#このカリキュラムが目指すもの)
-    - [目次](#目次)
     - [この資料が参考にした資料（目を通すこと）](#この資料が参考にした資料目を通すこと)
     - [前提のスキル：](#前提のスキル)
     - [カリキュラムの変更について](#カリキュラムの変更について)
@@ -89,8 +88,7 @@
 - http://dotinstall.com/lessons/stop_watch_js_v3
 
 #### 留意点
-- エディタにこだわりがなければ、Brackets(or VS Code)を使ってみてください。
-  - エディタの内容をブラウザに描画するのが楽なので。
+- エディタにこだわりがなければ、Visual Studio Codeを使ってみてください。
 
 #### ドットインストールをやる目的
 - Webをやる上での基本3つの言語に入門する。
@@ -104,10 +102,11 @@
 
 ## プログラミング関連の<a href='https://www.google.co.jp/search?q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%AB&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=lhtOWKPYMajf8AfDsqfoBA#safe=active&q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E8%AA%BF%E3%81%B9%E6%96%B9+%E3%82%B0%E3%82%B0%E3%82%8A%E6%96%B9' target='_blank'>ググり方</a>を知る（めちゃ重要）
 - プログラミングスキルは、自らググりながら、本読みながら得ることで血肉化する。
-   - <a href='https://medium.freecodecamp.com/read-search-dont-be-afraid-to-ask-743a23c411b4' target='_blank'>Read Search Ask</a> が、手詰まりになったときの基本
+   - <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/how_to_ask.md' target='_blank'>Read Search Ask</a> が、手詰まりになったときの基本だ。質問の聞き方も書いてありますよ。
      - StackOverflowもうまく使うと良い。英語での検索を覚えよう。
 - 各情報源の信頼性や使い分けも意識すること
   - <a href='http://qiita.com/YudaiTsukamoto/items/42a8df22ca4c6b327dfd#3-%E6%83%85%E5%A0%B1%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%82%92%E5%84%AA%E5%85%88%E3%81%99%E3%82%8B' target='_blank'>参考リンク</a>:「情報の信頼性」の部分。
+
 
 - **なお、以下に出てくる用語に逐一リンクはつけない。ググること！**
 
