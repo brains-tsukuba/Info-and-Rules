@@ -71,7 +71,7 @@ Brainsではまずは、ちょっとした課題を入部の条件にしてい�
 <a href="https://www.nnn.ed.nico/packages/2/courses" target="_blank">N予備校の『【無料体験版】プログラミング入門』</a>をやってください。オンラインの講座です。
 リンクをクリックして以下の画像に従って、必要に応じてアカウントを作ってください。ニコニコ動画のアカウントを持ってる人は、ログインを選べばOKです。
 
-![n_enroll](./n_enroll.gif)
+![n_enroll](./n_enroll_small.gif)
 
 無事ログインできたら、<a href="https://www.nnn.ed.nico/courses/236/chapters" target="_blank">このリンク</a>から、講座を選び受講し、第0章と第1章を、以下の『やるうえでの意識』を読んでやってください。
 
