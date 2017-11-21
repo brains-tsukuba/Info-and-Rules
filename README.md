@@ -159,11 +159,18 @@ Brainsが活動するうえで、大事にすること、方向性、考え方�
 1. ネットに違法行為や常識に欠ける行為は絶対に載せない。匿名/限定公開したつもりでも、すぐにバレます。
 
 
-### 運営やマネジメントについて
+### その他読んでほしいドキュメント
 
-上記のVision, How, Mindに共感できて、これの実現するうえでチームとして何ができるかを考えたい人は、以下を読んで下さい。代表がいままで団体を作る上で意識したことや、今後していきたいことが書いてます。
 
-<a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/management.md' target='_blank'>management.md</a>
+- <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/management.md' target='_blank'>マネジメントについて</a>
+    - 上記のVision, How, Mindに共感できて、これの実現するうえでチームとして何ができるかを考えたい人は、以下を読んで下さい。代表がいままで団体を作る上で意識したことや、今後していきたいことが書いてます。
+
+- [チーム制とメンター制](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/mentor_team.md)
+- [活動がうまくいかない、ついていけないと思った人へ](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/message_to_the_members.md)
+- [入部希望者/外部向けの団体概要。](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/basic_info.md)
+    - 情報詳細が知り合いにほしいと言われたら、Websiteとあわせてどうぞ。
+- [詰まった時の解決/質問の仕方](https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/how_to_ask.md)
+
 
 ### 各種資料に対する意見
 
