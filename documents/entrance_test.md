@@ -117,6 +117,20 @@ Brainsではまずは、ちょっとした課題を入部の条件にしてい�
 
 - [オバマ元大統領が、”皆、未来のためにプログラミングしてくれ”と懇願する動画 ](https://www.youtube.com/watch?time_continue=77&amp;v=6XvmhE1J9PY "President Obama asks America to learn computer science - YouTube")  
 
+##### 学習曲線と忘却曲線
+
+モチベーション維持のために、学習曲線と忘却曲線について知っておきましょう。
+学習に時間をかけたからといって、人はまっすぐに成長できるわけではありません。
+往々にして、理解度は二次関数的に伸びます。
+
+![](./learning_curve.png)
+画像出典:http://blog.pyq.jp/entry/2017/12/14/090000
+
+- [プログラミングの学習曲線](http://blog.pyq.jp/entry/2017/12/14/090000)について
+- [ものごとの忘却曲線](http://free-academy.jp/junior/index.php?%E3%82%A8%E3%83%93%E3%83%B3%E3%82%B0%E3%83%8F%E3%82%A6%E3%82%B9%E3%81%AE%E5%BF%98%E5%8D%B4%E6%9B%B2%E7%B7%9A)について
+
+つまり、地道にやり続ければやがて**覚醒**的なタイミング来るということです。画像で言うギャップに苦しまないようにしましょう！
+
 #### 経産省が発表した資料（2017年5月）
 
 - はやりの概念やマインドセット
@@ -128,6 +142,15 @@ Brainsではまずは、ちょっとした課題を入部の条件にしてい�
 - <a href='http://www.meti.go.jp/committee/summary/eic0009/pdf/020_02_00.pdf' target='_blank'>不安な個人、立ちすくむ国家。モデルなき時代をどう前向きに生き抜くか。</a>
   - <a href='https://www.businessinsider.jp/post-33716' target='_blank'>なぜ経産官僚は働き方に危機感を抱くのか キーパーソンが提唱する「AI格差時代の1億総学び社会」</a>
  
+#### Yahoo Japanが発表した資料（2017年2月）
+
+Yahoo Japanは"Update Japan"というビジョンを抱えていることもあり(2018-04-13時点)、ITにおける日本の課題感やゆくべき方向性を示した資料を公開しています。
+
+[シン・ニホン](www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf)
+
+[↑上記資料を用いたプレゼン](https://www.youtube.com/watch?v=G6ypXVO_Fm0&vl=ja)
+
+
  #### Will Can Must について
  
  Brainsでは各自のWill Can Mustを重視します。
