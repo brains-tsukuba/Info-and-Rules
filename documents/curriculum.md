@@ -1,5 +1,5 @@
 
-# このカリキュラムの前提  
+# このカリキュラムの前提
 
 ## このカリキュラムが目指すもの
 - 自走できるようになるのが目的。
@@ -49,7 +49,7 @@
 - <a href='https://www.slideshare.net/livesense/web-49772012' target='_blank'>学生時代に知っておきたかったWeb技術の学び方の学び方</a>
 - <a href='https://www.lifehacker.jp/2015/01/150127pro_program.html' target='_blank'>プロのプログラマーになるために本当に必要なスキルとは</a>
 
-## 前提のスキル： 
+## 前提のスキル：
 - <a href='https://digitalfan.jp/109395' target='_blank'>ブラインドタッチ</a>
 - <a href='https://www.google.co.jp/search?q=it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=bmYNWbWPOqvz8AfEopjwBg' target='_blank'>ITパスポート</a>レベルの知識とPCスキル
 - <a href='https://github.com/brains-tsukuba/Info-and-Rules/blob/master/documents/curriculum.md' target='_blank'>入部課題（ドットインストール、参考記事、プログラミングの目的の明文化）</a>を実施済みであること
@@ -113,7 +113,7 @@
 -------------------
 
 ## 遊びながらプログラミングを復習する
-- https://screeps.com/ 
+- https://screeps.com/
  - 飛ばしても可。遊び。
 
 ## デバッグの仕方やエラーメッセージの仕方を知る
@@ -150,7 +150,7 @@
   - Step4<a href='https://repl.it/CiPJ/18' target='_blank'>最低限のライン</a>（←の改善点は？（A.クラスを作る/グローバル変数を使わない等））
 - 継続的に使えるシステムを作ることの難しさを体感する。
   - クラス設計、リーダブルコードなどを意識。
-  - <a href='https://github.com/brains-tsukuba/sugoroku' target='_blank'>陽平が作った見本</a>
+  - <a href='https://github.com/HasegawaYohei/sugoroku' target='_blank'>陽平が作った見本</a>
 
 
 **以上の知識と、少しのWordpressの知識があれば、シンプルなウェブサイトの制作案件を受けられるはず！→割りと食べていける！**
@@ -190,7 +190,7 @@
    - Web開発者やプログラマーが学ぶべきスキル/キーワードの全体像を教えてくれる。
     - 英語わからなくても自動翻訳の字幕で内容はなんとなくわかる。わからない単語があれば、ググれば良い。
    - <a href='https://coggle.it/diagram/Vz9LvW8byvN0I38x' target='_blank'>動画をまとめたマインドマップ</a>
-    - 
+    -
 
 - キャリア
  - フロントエンド、バックエンド、インフラ（DevOps）、データ解析、プロダクトマネージャー等
@@ -246,7 +246,7 @@
     - キャリア/スキル確認〜〜開発までの流れを2〜3回繰り返す。
       - 2~3回繰り返した頃には、余裕で自分で学べるステージに入っているはず。
 
---- 
+---
 
 # サービスを開発していく
 ここから先に、正解はない。
