@@ -143,7 +143,7 @@ Brainsではまずは、ちょっとした課題を入部の条件にしてい�
 
 Yahoo Japanは"Update Japan"というビジョンを抱えていることもあり(2018-04-13時点)、ITにおける日本の課題感やゆくべき方向性を示した資料を公開しています。
 
-[シン・ニホン](www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf)
+[シン・ニホン](http://www.meti.go.jp/committee/sankoushin/shin_sangyoukouzou/pdf/013_06_00.pdf)
 
 [↑上記資料を用いたプレゼン](https://www.youtube.com/watch?v=G6ypXVO_Fm0&vl=ja)
 
