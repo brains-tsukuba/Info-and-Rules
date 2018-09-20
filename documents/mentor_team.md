@@ -6,9 +6,14 @@
 - チーム構成員は4月,10月の半期ごとに変える予定。その際にリーダーも適性や本人の志望によって変わる可能性あり。
 
 ## チームの目的
-
+以下のような目的を現時点で考えている。
+- Brains Mind1,2,4の実践
+    - 問題を自分ごとにして考え、やり抜き・解決する。
+    - Good Input/Output & Algorithm
+    - All for One, One for All
 - 似た目的の仲間と切磋琢磨することによるモチベーションの維持
-- 悩み/楽しみの共有
+- 悩み/課題/楽しみ/Will Can Mustの共有
+- もくもく会後での共有
 - 活動日以外での自主的活動。
     - 15人を動かすのは難しくても、3,4人なら動き始めやすく、複数人でできる。
     - 制作物の開発、
@@ -102,18 +107,18 @@ Brainsでのメンターの役割は、
 
 ## 参考文献
 
-- [新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック - Qiita](http://qiita.com/hirokidaichi/items/2e8e731acfd7b6c7e02f "新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック - Qiita")
-
 - [メンター制度導入！メンターの持つ意味と役割とは？ | BizHint HR（人事の悩みにヒントを届けるニュースサイト）](https://bizhint.jp/keyword/13288 "メンター制度導入！メンターの持つ意味と役割とは？ | BizHint HR（人事の悩みにヒントを届けるニュースサイト）")
-
-- [従業員を育む仕組み | リクルートホールディングス - Recruit Holdings](http://www.recruit.jp/company/csr/sustainability/labor_practices/human_resources.html "従業員を育む仕組み | リクルートホールディングス - Recruit Holdings")
-
-- [企業インタビュー｜リクルートホールディングス： 「起業家精神を持ち、成長し続ける人材」をいかに育てていくか？ - 『日本の人事部』](https://jinjibu.jp/article/detl/tonari/1126/1/ "企業インタビュー｜リクルートホールディングス： 「起業家精神を持ち、成長し続ける人材」をいかに育てていくか？ - 『日本の人事部』")
-
-- [リクルートという不思議な会社の９年間で学んだこと | teratown.com@journey](http://teratown.com/blog/2015/04/03/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%81%A8%E3%81%84%E3%81%86%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%81%AE%EF%BC%99%E5%B9%B4%E9%96%93%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0/ "リクルートという不思議な会社の９年間で学んだこと | teratown.com@journey")
 
 - [ヤフー人事に聞いた、進捗管理で終わらせないための「1 on 1」 – The First Penguin](https://thefirstpenguin.jp/%E3%83%A4%E3%83%95%E3%83%BC%E4%BA%BA%E4%BA%8B%E3%81%AB%E8%81%9E%E3%81%84%E3%81%9F-%E9%80%B2%E6%8D%97%E7%AE%A1%E7%90%86%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%89%E3%81%9B%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AE-1-on-1-e2c4f4b08e69 "ヤフー人事に聞いた、進捗管理で終わらせないための「1 on 1」 – The First Penguin")
 
 - [ヤフーの1on1。スピード経営を支える上司と部下が率直にモチベートし合う仕掛け | 未来を変えるプロジェクト by DODA](https://mirai.doda.jp/series/interview/yahoo-hiroshi-komukai/ "ヤフーの1on1。スピード経営を支える上司と部下が率直にモチベートし合う仕掛け | 未来を変えるプロジェクト by DODA")
+
+- [企業インタビュー｜リクルートホールディングス： 「起業家精神を持ち、成長し続ける人材」をいかに育てていくか？ - 『日本の人事部』](https://jinjibu.jp/article/detl/tonari/1126/1/ "企業インタビュー｜リクルートホールディングス： 「起業家精神を持ち、成長し続ける人材」をいかに育てていくか？ - 『日本の人事部』")
+
+- [従業員を育む仕組み | リクルートホールディングス - Recruit Holdings](http://www.recruit.jp/company/csr/sustainability/labor_practices/human_resources.html "従業員を育む仕組み | リクルートホールディングス - Recruit Holdings")
+
+- [新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック - Qiita](http://qiita.com/hirokidaichi/items/2e8e731acfd7b6c7e02f "新入社員が来てメンターになれって言われたけど、どうすればいいのかという対話テクニック - Qiita")
+
+- [リクルートという不思議な会社の９年間で学んだこと | teratown.com@journey](http://teratown.com/blog/2015/04/03/%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%88%E3%81%A8%E3%81%84%E3%81%86%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%81%AE%EF%BC%99%E5%B9%B4%E9%96%93%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0/ "リクルートという不思議な会社の９年間で学んだこと | teratown.com@journey")
 
 - [上司とのコミュニケーションこそが、部下を成長させる | ニュース3面鏡 | ダイヤモンド・オンライン](http://diamond.jp/articles/-/122477 "上司とのコミュニケーションこそが、部下を成長させる | ニュース3面鏡 | ダイヤモンド・オンライン")
